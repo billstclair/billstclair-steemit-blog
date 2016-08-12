@@ -5,6 +5,7 @@ I write Steemit posts in [markdown](https://guides.github.com/features/mastering
 There's an index.html file in the directory containing a table of links to the articles, their source, and their photo directories.
 
 https://billstclair.com/steemit/
+https://github.com/billstclair/billstclair-steemit-blog
 
 <center>
 ![Steemit source table](https://billstclair.com/steemit/organizing-steemit/steemit-source.png)
