@@ -1,8 +1,9 @@
-# Elm and Cordova: Publishing an Elm webapp for iOS and Android
+<!-- Elm and Cordova -->
+# Publishing an Elm webapp for iOS and Android
 
-I have written previously about the [Elm programming language](http://elm-lang.org) and the [Kakuro Dojo](https://GibGoyGames.com/kakuro/) puzzle game that I wrote in it. I have since completed the game, and, using [Apache Cordova](https://cordova.apache.org/), turned it into apps for [Apple's iOS app store](https://itunes.apple.com) and [Google Play](https://play.google.com).
+I have written previously about the [Elm programming language](http://elm-lang.org) and the [Kakuro Dojo](https://GibGoyGames.com/kakuro/) puzzle game that I wrote in it. I have since completed the game, and, using [Apache Cordova](https://cordova.apache.org/), turned it into apps for [Apple's iOS app store](https://itunes.apple.com) and [Google Play](https://play.google.com). This article is about the process of turning an Elm webapp into an app store app.
 
-<center>![Elm Logo](https://billstclair.com/steemit/elm-rocks/elm-logo.png)<br/>Logo Credit: [@elmlang](https://twitter.com/elmlang)</center>
+<center>![Elm and Cordova Logos](https://billstclair.com/steemit/elm-and-cordova/elm-and-cordova-600x320.png)<br/>Logo Credits: [@elmlang](https://twitter.com/elmlang) | [Apache](https://cordova.apache.org/artwork/)</center>
 
 If you would like to try Kakuro Dojo on your phone or tablet, you can download it at one of the links below. It's free for ten puzzles, in 6x6 and 8x8 layouts, and costs another dollar for 190 more puzzles, in 6x6,  8x8, and 10x10. And you can play it in your web browser at [Kakuro-Dojo.com](https://Kakuro-Dojo.com/).
 
